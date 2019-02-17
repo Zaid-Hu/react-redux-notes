@@ -1,0 +1,2 @@
+Give access to a single Dom element.
+Just used to instead document.querySelector();
